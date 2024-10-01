@@ -8,9 +8,9 @@ class Contact {
     isFavorit = favoriteState == 'favorite';
   }
 
+  final String id;
   final String name;
   final String phone;
-  final String id;
   String favoriteState;
   bool isFavorit;
 }

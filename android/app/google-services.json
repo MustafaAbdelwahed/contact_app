@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:1088832606570:android:6391179b9b7748b1125513",
+        "android_client_info": {
+          "package_name": "com.example.basketball_counter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZBlmekRo-K4qgSelydVR-owKJOcwY1Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:1088832606570:android:f28f5b8d506bfbc9125513",
         "android_client_info": {
           "package_name": "com.example.contact_app"
